@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h1>
 <div align="center">
 
-  <h3 align="center">3rd year Computer Engineering student</h3>
+  <h3 align="center">4th year Computer Engineering student</h3>
   
  
 
